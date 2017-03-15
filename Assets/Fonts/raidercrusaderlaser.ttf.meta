@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d7073996d3bb099459e609116d4a3a1f
+timeCreated: 1488986269
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Raider Crusader Laser
+  fontNames:
+  - Raider Crusader Laser
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
